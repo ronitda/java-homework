@@ -1,0 +1,6 @@
+area,lion,5
+animal,lion,african,leon1,2024
+animal,lion,african,leon2,2024
+area,bear,6
+animal,bear,brown,bear1,2024
+animal,bear,brown,bear2,2024
